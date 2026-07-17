@@ -1,0 +1,68 @@
+VividHUD — Installation Guide
+=============================
+
+VividHUD shows a big, clear volume and brightness pop-up in the middle of your
+screen whenever you use the volume or brightness keys. It runs quietly in the
+background and starts automatically each time you turn on your Mac.
+
+
+INSTALL (about 20 seconds)
+--------------------------
+1. Double-click VividHUD.dmg to open it (you may have already done this).
+2. Drag the VividHUD icon onto the Applications folder shown next to it.
+3. That's it — you can now close and eject the disk image.
+
+
+FIRST TIME YOU OPEN IT  (important!)
+------------------------------------
+Because this is a free app that isn't registered with Apple, macOS shows a
+one-time warning the first time you open it. This is normal. To get past it:
+
+   1. Open your Applications folder.
+   2. RIGHT-CLICK (or Control-click) VividHUD.
+   3. Choose "Open".
+   4. In the box that appears, click "Open" again.
+
+You only have to do this ONCE. After that it opens normally.
+
+If you don't see an "Open" button, go to:
+   Apple menu  >  System Settings  >  Privacy & Security
+Scroll down — you'll see a message about VividHUD and an "Open Anyway" button.
+Click it, then click "Open".
+
+
+HOW TO USE IT
+-------------
+- Just press your volume or brightness keys — the pop-up appears automatically.
+- Look in the top-right of your menu bar for a small slider icon. Click it for:
+      • Start at Login   — turn automatic startup on/off (on by default)
+      • Test HUD         — show the pop-up so you know it's working
+      • Quit VividHUD    — stop the app
+
+
+DOES IT START AUTOMATICALLY AFTER A RESTART?
+--------------------------------------------
+Yes. The first time you open it, it adds itself to your login items, so it will
+be running every time you start your Mac. You can confirm or change this under:
+   System Settings  >  General  >  Login Items
+   (or use the "Start at Login" checkbox in the menu-bar icon).
+
+
+UNINSTALL
+---------
+1. Click the slider icon in the menu bar and uncheck "Start at Login".
+2. Click the slider icon again and choose "Quit VividHUD".
+3. Open Applications and drag VividHUD to the Trash.
+
+The login-item entry clears itself once the app is removed. If you ever want to
+tidy it manually, it's under System Settings > General > Login Items.
+
+
+PERMISSIONS
+-----------
+VividHUD does not need any special permissions (no Accessibility access needed).
+
+
+REQUIREMENTS
+------------
+macOS 13 (Ventura) or newer.
